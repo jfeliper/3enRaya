@@ -1,7 +1,7 @@
 # 3enRaya
 Estudiar el algoritmo y cómo lo implementamos con PLC.
 
-La idea es programar el juego del 3 en Raya en un PLC Siemens S7-1200. (No podemos programar recursión)
+La idea es programar el juego del 3 en Raya en un PLC Siemens S7-1200 (No podemos programar recursión).
 
 Con pantalla HMI TP177B PNDP.
 
